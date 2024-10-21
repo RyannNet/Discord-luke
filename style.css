@@ -131,6 +131,7 @@ height:10px;
   border-radius: 5px; /* Adiciona um arredondamento suave */
   transition: 0.5s;
   box-shadow: 20px 14px 30px rgb(37,145,82);
+height: 300px;
 }
 
 footer {
